@@ -1,0 +1,1 @@
+var aurl='www.baidu.com'
